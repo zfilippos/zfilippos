@@ -1,4 +1,4 @@
-<h1><img src="https://slackmojis.com/emojis/505-welcome/download" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://slackmojis.com/emojis/60800-eyes/download" width="30"/> Hey! Nice to see you.</h1>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%CF%86%CE%AF%CE%BB%CE%B9%CF%80%CF%80%CE%BF%CF%82-%CE%B6%CF%8E%CE%BA%CE%B1%CF%82-a5459032b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:filiposzok@gmail.com) 
 
