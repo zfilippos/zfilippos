@@ -18,4 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=zfilippos&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zfilippos)](https://github.com/anuraghazra/github-readme-stats)
