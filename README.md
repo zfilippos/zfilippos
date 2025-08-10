@@ -11,7 +11,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=zfilippos&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=zfilippos&icon=1&color=0)](https://visitcount.itsvg.in)
-
 <h3>🌐 Where to find me</h3>
 <p><a href="https://www.linkedin.com/in/filippos-zokas-a5459032b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="mailto:filiposzok@gmail.com?subject=Subject%20Text&body=Body%20Text" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
