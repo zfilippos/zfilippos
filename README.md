@@ -9,7 +9,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zfilippos&theme=radical&no-frame=true&no-bg=false&margin-w=4)
----
 
 # <h3>🌐 Where to find me</h3>
 <p><a href="https://www.linkedin.com/in/filippos-zokas-a5459032b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
