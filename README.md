@@ -1,3 +1,7 @@
+</p align="center">
+<img src="https://media.licdn.com/dms/image/v2/C4E16AQHH8aZYsujCBw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1620494997374?e=1757548800&v=beta&t=_p9U7pZnCNKyi9FOm9mcM5tbtbPaKzbRBJaqQdWWho4" />
+
+<p align="center">
 <h1><img src="https://slackmojis.com/emojis/60800-eyes/download" width="30"/> Hey! I'm Filippos</h1>
 <h3> Graduate of School of Informatics at Aristotle University of Thessaloniki specializing in Computer Networks with hands-on experience in web development, e-commerce, IT support and a strong problem-solving mindset.</h3>
 
@@ -8,10 +12,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=zfilippos&theme=dark&hide_border=true)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zfilippos&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zfilippos&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-# 🌐 Where to find me 
+# 📫 Reach me at  
 <p><a href="https://www.linkedin.com/in/filippos-zokas-a5459032b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="mailto:filiposzok@gmail.com?subject=Subject%20Text&body=Body%20Text" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
